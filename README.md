@@ -1,6 +1,6 @@
 
 Welcome to the **Node.js Backend Tutorial**!  
-This chapter covers the basics of Node.js and helps you get started with backend development.
+This chapter covers the basics of Node.js and helps you get started with backend development. 
 
 ---
 
