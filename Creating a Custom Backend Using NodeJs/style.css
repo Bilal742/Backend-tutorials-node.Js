@@ -1,0 +1,15 @@
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+ul li{
+    list-style: none;
+}
+
+ul li a {
+    color: black;
+    background-color: red;
+}
