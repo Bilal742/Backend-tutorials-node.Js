@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Bilal742/JavaScript-Node.js#readme",
   "dependencies": {
+    "express": "^5.2.1",
     "package-name": "^0.1.0"
   }
 }
- 
