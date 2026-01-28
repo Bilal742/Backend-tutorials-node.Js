@@ -3,3 +3,18 @@ add a person next to me who you think would suit me
 Generate a girl next to me that you think would suit me
 
 change the entire outfit in the first photo to match the outfit in the second photo it should look realistic golden hour lighting do not change anything else
+
+
+Create a cinematic digital illustration of the person in the reference photo. Maintain the exact face, identity, hairstyle, expression, skin tone, and pose with zero distortion. Transform the entire scene into a deep red high-contrast Tamil gangster movie poster style. Replace the background with red gradients, smoky atmosphere, and subtle textures. Add bold comic-book shading, thick outlines, strong black shadows, and glossy highlights on the skin and clothes. Stylize the outfit with richer tones, clean folds, and dynamic lighting while keeping the original clothing design. Add intense highlights to the jawline, cheekbones, and edges of the body. Maintain the original pose and attitude. Create a gritty, powerful, cinematic mood with dramatic lighting and high contrast. Ultra-detailed, sharp lines, vibrant red atmosphere
+
+Transform the person from Image 1 using the cinematic style, lighting, look, and mood of Image 2.
+Create a dramatic graphic-novel realism portrait of a confident man wearing a black tailored suit, white shirt, and black tie. Emphasize a sharp masculine jawline, subtle rugged stubble, strong facial structure, confident posture, and calm dominance.
+Lighting:
+Harsh cinematic directional lighting from one side, deep shadows, high contrast, chiaroscuro style, moody atmosphere.
+Style:
+Graphic-novel realism, cinematic digital painting, gritty texture, painterly brush strokes, subtle grain, realistic skin pores.
+Background:
+Deep blood-red textured backdrop, minimal, dramatic, cinematic noir tone.
+Mood:
+Intense, powerful, mysterious, alpha presence.
+Ultra-detailed, 4K quality, sharp focus, professional color grading, movie poster aesthetic.
